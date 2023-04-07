@@ -1,0 +1,10 @@
+button {
+    border: none;
+    padding: 10px 15px;
+    color: #FFFFFF;
+    border-radius: 2px;
+}
+
+button:hover {
+    opacity: 0.9;
+}

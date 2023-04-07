@@ -1,0 +1,8 @@
+a {
+    color: white;
+    padding: 10px;
+}
+
+a:hover {
+    opacity: 0.9;
+}
