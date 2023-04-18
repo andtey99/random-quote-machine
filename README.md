@@ -1,8 +1,6 @@
-# Getting Started with Create React App
+## Ypu can test the app by the link below
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
+https://andtey99.github.io/random-quote-machine/
 
 In the project directory, you can run:
 
