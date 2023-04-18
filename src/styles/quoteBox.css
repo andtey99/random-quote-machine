@@ -1,0 +1,55 @@
+.quote-box {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width: 960px;
+    margin: 0 auto;
+    font-weight: 700;
+    font-size: 1.5rem;
+    transform: translate(-50%, -50%);
+    border-radius: 5px;
+    padding: 50px;
+    background-color: #fff;
+    transition: 1s all;
+}
+
+.quote-text {
+    text-align: center;
+}
+
+.quote-up {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 30px;
+    font-size: 2rem;
+}
+
+.quote-author {
+    margin-top: 30px;
+    align-self: flex-end;
+    font-size: 1.5rem;
+    font-weight: 500;
+}
+
+.quote-bottom {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    align-items: center;
+}
+
+@media (max-width: 700px) {
+    .quote-box {
+        padding: 10px;
+        width: 90%;
+    }
+    .quote-up {
+        font-size: 1.5rem;
+    }
+    .quote-author {
+        font-size: 1rem;
+    }
+}
