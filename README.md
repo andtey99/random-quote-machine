@@ -1,4 +1,4 @@
-## Ypu can test the app by the link below
+# You can test the app by the link below
 
 https://andtey99.github.io/random-quote-machine/
 
